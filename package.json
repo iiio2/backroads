@@ -1,7 +1,7 @@
 {
   "name": "backroads",
   "version": "1.0.0",
-  "description": "",
+  "description": "The window to the many beautiful destinations",
   "source": "index.html",
   "scripts": {
     "dev": "parcel",
